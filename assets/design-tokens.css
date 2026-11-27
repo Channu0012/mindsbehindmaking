@@ -1,0 +1,25 @@
+:root {
+  --bg: #111111;
+  --bg-deep: #0B0B0A;
+  --bg-elevated: #171715;
+  --bg-recessed: #1E1E1B;
+  --bg-glass: rgba(17, 17, 17, 0.82);
+
+  --ink: #F4F1EA;
+  --ink-secondary: #B5B0A4;
+  --ink-muted: #888378;
+
+  --rule: #262522;
+  --rule-strong: #3A3832;
+
+  --gold: #C6A46A;
+  --gold-bright: #D7B882;
+  --gold-soft: rgba(198, 164, 106, 0.14);
+  --obsidian: #111111;
+
+  --sans: var(--font-inter-tight), "Inter Tight", system-ui, -apple-system, sans-serif;
+  --serif: var(--font-instrument-serif), "Instrument Serif", Georgia, serif;
+  --mono: var(--font-jetbrains-mono), "JetBrains Mono", ui-monospace, monospace;
+  --ease-ed: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+}

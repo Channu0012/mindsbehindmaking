@@ -1,0 +1,18 @@
+{
+  "brand": "MindsBehindMaking",
+  "version": "4.0.0",
+  "theme": "obsidian-only",
+  "color": {
+    "bg": "#111111",
+    "bg-deep": "#0B0B0A",
+    "bg-elevated": "#171715",
+    "bg-recessed": "#1E1E1B",
+    "ink": "#F4F1EA",
+    "ink-secondary": "#B5B0A4",
+    "ink-muted": "#888378",
+    "rule": "#262522",
+    "rule-strong": "#3A3832",
+    "gold": "#C6A46A",
+    "gold-bright": "#D7B882"
+  }
+}
